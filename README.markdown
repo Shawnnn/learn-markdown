@@ -4,7 +4,7 @@
 
 this is a **text** *sample*
 
-[hyperlink]()
+[hyperlink](more.md) //README.md 和more.md在同一目录下，可直接写文件名
 
 > reference
 >
